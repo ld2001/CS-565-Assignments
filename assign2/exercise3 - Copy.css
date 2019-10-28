@@ -1,0 +1,124 @@
+body {
+    background: linear-gradient(aliceblue, rgb(5, 5, 71) );
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-align: center; */
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-bottom: auto;
+    background-color: greenyellow;
+    width: 100%;
+}
+
+#pg-header {
+    color:navy;
+    font-size: xx-large;
+    font-style: oblique;
+    font-optical-sizing: auto;
+    text-align: left;
+}
+
+nav {
+    text-align: left;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 1em;
+}
+
+#bio {
+    /* background-color: lightcoral; */
+    text-align: center;
+    /* position: relative; */
+    margin-top: 100px;
+    /* top: 100px; */
+}
+
+#bio-header {
+}
+
+#bio-body {
+}
+
+#news_links {
+    /* background-color: white; */
+    margin: 10px;
+    border-style: dotted;
+    border-color:cornflowerblue;
+    border-width: 5px;
+    padding-left: 30px;
+}
+
+#news-list {
+    display: block;
+}
+
+#fancy_equine {
+
+}
+
+#pics-list {
+    display: inline-flex;
+    list-style: none;    
+}
+
+form {
+    background-color: gray;
+    /* align-items: center; */
+    text-align: center;
+    /* display: block; */
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: auto;
+    width: 300px;
+    /* min-width: 300px; */
+    /* max-width: 99%; */
+    /* width: 33%; */
+    /* width: auto; */
+    height: auto;
+    /* max-height: 50%; */
+    padding-bottom: 20px;
+    box-shadow: rgba(0,0,0,0.2) 0px 3px 5px, inset rgba(0,0,0,0.2) 0px -1px 2px;
+    border-radius: 5px;
+}
+
+#form-header {
+    padding-top: 20px;
+}
+
+input[type="text"] {
+    width: 90%;
+    height: 30px;
+}
+
+textarea {
+    width: 90%;
+    max-width: 90%;
+    height: 80px;
+}
+
+input[type="submit"] {
+    width: 35%;
+    height: 30px;
+    background-color: navy;
+    color: white;
+}
+
+input[type="submit"]:hover {
+    background-color: mediumseagreen;
+    color: navy;
+}
+
+footer {
+    color: aliceblue;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
