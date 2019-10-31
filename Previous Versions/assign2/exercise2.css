@@ -1,0 +1,65 @@
+body {
+    background-color: white;
+    margin-left: 25%;
+    margin-right: 5%;
+    margin-top: -10%;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+div {
+    display: inline;
+} 
+
+h1 {
+    color: gray ;
+    font-size: 50pt;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: normal;
+}
+
+p.links {
+    background-color: rgb(85, 79, 79);
+    width: 410px;
+    height: 50px;
+    position: relative;
+    padding: auto;
+    color: white;
+    font-weight: bold;
+    padding-top: 5%;
+}
+
+#Makelonger {
+    width: 410px;
+}
+
+header:after {
+    display: block;
+}
+
+a {
+    color: rgb(29, 173, 101)
+}
+
+#image-1 {
+    position: relative;
+    top: 148px;
+}
+
+#unit-kitten-content {
+    position: relative;
+    top: 90px;
+    float: left;
+    width: 35%;
+}
+
+#unit-many-many-pictures-of-small-cats {
+    position: relative;
+    float: right;
+    width: 50%;
+}
+
+div:after {
+    content: "";
+    display: block;
+    clear: both;
+}

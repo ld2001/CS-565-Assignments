@@ -1,0 +1,42 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(rgb(10,180,10),rgb(250,250,20));
+    width: auto;
+    height: 100%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 10%
+    
+}
+
+figure {
+    width:auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+  position: relative;
+  width: 300px;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 20px;
+  background: white;
+  text-align: center;
+}
+
+.InputText {
+    width: 200px;
+    height: 150px;
+}
+
+.Input {
+    width: 200px;
+}
+
+.button:hover {
+    color: rgb(10, 36, 180)
+}
