@@ -16,6 +16,12 @@ body {
     border: none;
 }
 
+.captions {
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
 #Welcome {
     display: block;
     margin-left: auto;
