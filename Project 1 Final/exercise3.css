@@ -1,0 +1,57 @@
+.navbar-item:hover {
+    color: white;
+}
+
+body {
+    background:rgb(209, 207, 207);
+}
+
+.container-fluid {
+    background-color: rgb(209, 207, 207);
+    border: none;
+}
+
+#Welcome {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+.about { 
+    height: 600px;
+}
+
+#Profilepic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    
+}
+
+.col-4 {
+    text-align: center;
+}
+
+li {
+    text-align: left;
+}
+
+#intro-text {
+    display: flex;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+}
+
+input[type=text]#feedback {
+    width: 100%;
+    padding: 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+
+
+
