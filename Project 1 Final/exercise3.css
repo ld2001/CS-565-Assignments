@@ -11,6 +11,11 @@ body {
     border: none;
 }
 
+.card {
+    background-color: rgb(209, 207, 207);
+    border: none;
+}
+
 #Welcome {
     display: block;
     margin-left: auto;
