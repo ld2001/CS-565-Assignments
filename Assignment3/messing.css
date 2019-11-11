@@ -1,0 +1,36 @@
+
+.navbar navbar-light navbar-expand-md fixed-top {
+  
+}
+
+.container {
+  
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+
+div > div {
+  border: 1px solid black;
+}
+
+
+.Box-1 {
+  width: 800px;
+  height: 20px;
+  flex: 0 0 50em;
+  background-color: black;
+}
+
+.Box-2 {
+ width: 400px; 
+height: 40px;
+flex: 0 0 70em;
+}
+
+.Box-3 {
+  width: 400px;
+
+}

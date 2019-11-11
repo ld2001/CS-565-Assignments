@@ -1,0 +1,49 @@
+#row1 .col{
+    background-color: navy;
+    color: white;
+    margin: 2px;
+    text-align: center;
+}
+
+#row2 .col{
+    background-color: purple;
+    color: white;
+    margin: 2px;
+    text-align: center;
+}
+
+
+#row3 .col{
+    background-color: darkcyan;
+    color: white;
+    margin: 2px;
+    text-align: center;
+}
+
+#row4 .col{
+    background-color: greenyellow;
+    color: white;
+    margin: 2px;
+    text-align: center;
+}
+
+#row5 .col{
+    background-color: darkcyan;
+    color: white;
+    margin: 2px;
+    text-align: center;
+}
+
+#row5 .col-8{
+    background-color: salmon;
+    color: white;
+    margin: 2px;
+    text-align: center;
+}
+
+#row6 .col{
+    background-color: green;
+    color: white;
+    margin: 2px;
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+
+.col, .col-8{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    margin: 2px;
+    border: 1px solid white;
+}
+
+#white {
+    background-color: white;
+}
